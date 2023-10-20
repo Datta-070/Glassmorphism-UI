@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height:95vh;
-    color: beige;
+    color: white;
     background: 
     url(https://images.unsplash.com/photo-1695970923398-0120e953ee8a?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
     center
@@ -32,5 +32,5 @@ body{
 }
 .card-footer{
     font-size: 0.65em;
-  color: beige;
+  color: white;
 }
